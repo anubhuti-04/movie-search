@@ -21,7 +21,7 @@ Welcome to the Movie Search App! This web application allows users to search for
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harshit0075/movie-search.git
+    git clone https://github.com/anubhuti-04/movie-search.git
     ```
 
 2. Navigate to the project directory:
@@ -70,5 +70,6 @@ The Movie Search App is deployed and accessible via this [link](https://6601c4d2
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
 
 
